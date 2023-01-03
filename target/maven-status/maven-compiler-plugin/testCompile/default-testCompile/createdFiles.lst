@@ -1,0 +1,4 @@
+resources\propertyfile\utils\PropertyReader.class
+resources\propertyfile\utils\TestUtils.class
+com\restful\booker\testbase\TestBase.class
+com\restful\booker\restfulcurdtest\RestfulCURDTest.class
